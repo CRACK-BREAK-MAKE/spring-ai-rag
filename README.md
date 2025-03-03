@@ -28,6 +28,4 @@ https://youtu.be/SroglXNjHgc
 
 👉 Various Vector Stores Available in Spring AI: https://docs.spring.io/spring-ai/reference/api/vectordbs.html
 
-👉 GitHub Link: https://github.com/CRACK-BREAK-MAKE/chatbot-vercel-ai-sdk
-
 💬 Got questions? Drop them in the comments below! Don’t forget to LIKE, SUBSCRIBE & hit the notification bell so you never miss an AI tutorial. 🚀✨
