@@ -1,0 +1,6 @@
+services:
+  chroma:
+    image: ghcr.io/chroma-core/chroma:0.6.4.dev242
+    restart: always
+    ports:
+      - 8000:8000
