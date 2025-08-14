@@ -2,6 +2,9 @@
 Want to build an AI-powered Retrieval-Augmented Generation (RAG) app with Spring Boot & Spring AI? This step-by-step tutorial covers everything—from setting up Spring AI ETL Pipelines, integrating Chroma Vector Store & Ollama, and creating RAG inference endpoints to connecting a Svelte 5 frontend!
 
 🔗 Resources & Links:
+![spring-ai-rag.webp](spring-ai-rag.webp)
+
+👉 Explained in Detailed in YouTube: https://youtu.be/L_3JqqxzrVM
 
 👉 How to Download & Install *Java* : https://www3.ntu.edu.sg/home/ehchua/programming/howto/jdk_howto.html
 
